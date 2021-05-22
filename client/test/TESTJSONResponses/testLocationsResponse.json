@@ -1,0 +1,23 @@
+{
+  "statusTest": "OK",
+  "statusCode": 200,
+  "body": {
+    "requestVersion": 3,
+    "requestType": "locations",
+    "match": "test",
+    "narrow": [{"name":"type","values":["airport"]}, {"name":"country","values":["Canada"]}],
+    "limit": 3,
+    "found": 1,
+    "places": [
+      {
+        "name":"Dave's Airport",
+        "latitude": "40.0332984924",
+        "longitude": "-105.124000549",
+        "id":"0CO1",
+        "altitude":"5170",
+        "municipality":"Louisville",
+        "type":"small_airport"
+      }
+    ]
+  }
+}

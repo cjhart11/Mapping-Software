@@ -1,0 +1,25 @@
+{
+  "statusTest": "OK",
+  "statusCode": 200,
+  "body": {
+    "serverName": "T20 Trinity+",
+    "requestVersion": 3,
+    "requestType": "config",
+    "placeAttributes": [
+      "name",
+      "id",
+      "latitude",
+      "longitude",
+      "altitude",
+      "municipality",
+      "region",
+      "country",
+      "continent",
+      "type"
+    ],
+    "optimizations": [
+      "none","automatic"
+    ],
+    "filters": []
+  }
+}

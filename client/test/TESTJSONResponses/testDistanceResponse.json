@@ -1,0 +1,20 @@
+{
+  "statusTest": "OK",
+  "statusCode": 200,
+  "body": {
+    "requestVersion": 3,
+    "requestType": "distance",
+    "origin": {
+      "name": "Test",
+      "latitude": "123.456",
+      "longitude":  "123.456"
+    },
+    "destination": {
+      "name": "Test",
+      "latitude": "123.456",
+      "longitude":  "123.456"
+    },
+    "earthRadius": 123,
+    "distance": 123
+  }
+}
