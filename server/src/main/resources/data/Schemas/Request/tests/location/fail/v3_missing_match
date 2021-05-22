@@ -1,0 +1,14 @@
+{
+  "requestType"    : "locations",
+  "requestVersion" : 3,
+  "limit"          : 10,
+  "found"          : 1,
+  "places"         : [{"name":"Dave's Airport", 
+                       "latitude": "40.0332984924", 
+                       "longitude": "-105.124000549",
+                       "id":"0CO1",
+                       "altitude":"5170",
+                       "municipality":"Louisville",
+                       "type":"small_airport"
+                       }]
+}

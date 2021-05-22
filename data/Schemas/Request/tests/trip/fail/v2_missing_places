@@ -1,0 +1,8 @@
+{
+  "requestType"    : "trip",
+  "requestVersion" : 2,
+  "options"        : { "title":"My Trip",
+    "earthRadius":"3958.8",
+    "optimization":"none" },
+  "distances"      : [24, 41, 59]
+}

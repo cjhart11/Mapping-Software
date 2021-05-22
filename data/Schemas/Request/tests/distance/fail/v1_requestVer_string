@@ -1,0 +1,8 @@
+{
+  "requestType"    : "distance",
+  "requestVersion" : "one",
+  "origin"         : {"latitude":  "40.6", "longitude": "-105.1", "name":"Fort Collins, Colorado, USA"},
+  "destination"    : {"latitude": "-33.9", "longitude":  "151.2", "name":"Sydney, New South Wales, Australia"},
+  "earthRadius"    : 3958.8,
+  "distance"       : 0
+}

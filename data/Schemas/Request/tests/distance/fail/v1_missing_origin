@@ -1,0 +1,7 @@
+{
+  "requestType"    : "distance",
+  "requestVersion" : 1,
+  "destination"    : {"latitude": "-33.9", "longitude":  "151.2", "name":"Sydney, New South Wales, Australia"},
+  "earthRadius"    : 3958.8,
+  "distance"       : 0
+}
